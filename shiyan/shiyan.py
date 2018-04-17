@@ -9,3 +9,6 @@ value:fsfsdfs
 
 
 age:23
+
+
+num1 = 122
